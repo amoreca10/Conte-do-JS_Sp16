@@ -82,10 +82,14 @@ switch (dia) {
     alert("O dia da semana selecionado foi: " + diaSemana);
     break;
 
+
+    
   case 6:
     diaSemana = "Sábado";
     alert("O dia da semana selecionado foi: " + diaSemana);
     break;
+
+
 
   default:
     let aviso = "Valor incorreto. Tente novamente.";
