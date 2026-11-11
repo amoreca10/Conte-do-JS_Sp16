@@ -59,7 +59,7 @@ function mult(a,b){
     return a * b;
 } 
 
-let result = mult(5,10) / 2;
+ let result = mult(5,10) / 2;
 
 console.log(result);
 
