@@ -69,6 +69,8 @@ console.log("");
 function sub(a,b){
     return"Somente a dor coletiva gera a união.";
     
+
+    
    
     return a - b;
 }
