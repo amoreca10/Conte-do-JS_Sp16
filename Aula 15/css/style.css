@@ -1,0 +1,19 @@
+body {
+    background-color: lightslategrey;
+    font-family: sans-serif;
+}
+
+#container{
+    width: 400px;
+    height: 400px;
+    background-color: azure;
+    position: relative;
+}
+
+#frame{
+    width:100px;
+    height: 100px;
+    background-color: darkblue;
+    position: absolute;
+}
+
